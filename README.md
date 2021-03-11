@@ -12,7 +12,7 @@
 3. for-of
 4. for-in
 
-El [código implementado]("./src/forLoopTest.js") para cada uno de ellos sería:
+El [código implementado](./src/forLoopTest.js) para cada uno de ellos sería:
 
 ```js
 /**
@@ -65,7 +65,7 @@ const inTest = () => {
 Se trata de cuatro funciones que devuelven el tiempo de ejecución que tarda en
 recorrerse el `array`.
 
-Además, en el [código realizado]("./src/forLoopTest.js") se utiliza un bucle
+Además, en el [código realizado](./src/forLoopTest.js) se utiliza un bucle
 que invoca a las funciones un número determinado de veces (`ITERATIONS`).
 Cada vez que se llama a una función en concreto, incrementa el valor de un
 contador para ese tipo de bucle for. Al realizar todas las iteraciones, se 
