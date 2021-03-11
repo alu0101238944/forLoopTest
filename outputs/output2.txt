@@ -1,0 +1,22 @@
+
+[&] Comienza el experimento
+
+[*] Emperimento realizado
+
+En este experimento se han llevado a cabo las comparaciones,
+en cuanto a tiempos de ejecución, de los 4 bucles for
+abajo mencionados. Se realizaron 10000 iteraciones
+considerando el recorrido en un vector de tamaño 10000000
+
+Resultados del experimento:
+==========================
+
+[1] Tiempo para el for "clásico": 5.194090427400009 ms
+
+[2] Tiempo para el forEach: 16.860444222799664 ms
+
+[3] Tiempo para el for-of: 8.25319860439995 ms
+
+[4] Tiempo para el for-in: 20.775179492000024 ms
+
+Tiempo total de ejecución del programa: 511221.40021399996 ms
